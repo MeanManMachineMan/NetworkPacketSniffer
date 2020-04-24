@@ -38,4 +38,6 @@ In order to run the application successfully, one must have the following instal
 1. [Npcap](https://nmap.org/npcap/windows-10.html)
 2. [Pcap4J](https://github.com/kaitoy/pcap4j)
 
+If you need to use any code snippet in your own projects, please contact me for permission and give due credit(vidur.p11@gmail.com)! ;)
+
 Once installed successfully, the application should run flawlessly. Enjoy!
